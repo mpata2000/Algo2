@@ -1,0 +1,16 @@
+Politoed;70;33;verde
+Slowking;30;79;rosa
+Kyogre;90;352;azul
+Spheal;25;39;azul
+Tirtouga;22;16;azul
+Squirtle;43;9;azul
+Suicune;85;187;azul
+Alomomola;65;31;rosa
+Helioptile;70;6;amarillo
+Arceus;120;320;blanco
+Wailmer;60;130;azul
+Cloyster;70;132;morado
+Milotic;81;162;rosa
+Sawsbuck;95;92;marron
+Mew;100;4;rosa
+Piplup;40;5;azul
