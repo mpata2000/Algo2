@@ -1,0 +1,6 @@
+[submodule "TDA-ABB"]
+	path = TDA-ABB
+	url = https://github.com/mpata2000/TDA-ABB
+[submodule "TDA-Lista"]
+	path = TDA-Lista
+	url = https://github.com/mpata2000/TDA-Lista
