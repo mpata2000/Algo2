@@ -121,6 +121,3 @@ Malloc y Realloc:
             Realloc modifica el tamaño del bloque de memoria apuntado por ptr en size bytes (puede aumentar o disminuir el tamaño del bloque). Si el nuevo bloque
             es mayor que el tamaño anterior, lo inicializa con basura si falla devuelve NULL
 
-
-Por ultimo agradezco a Santiago Fernandez(mi corrector) sin el este trabajo no habria sido posible. Por ello le dededico este video:
-    https://www.youtube.com/watch?v=dQw4w9WgXcQ
