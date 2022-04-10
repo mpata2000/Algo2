@@ -4,3 +4,6 @@
 [submodule "TDA-Lista"]
 	path = TDA-Lista
 	url = https://github.com/mpata2000/TDA-Lista
+[submodule "Una-Aventura-Pokemon"]
+	path = Una-Aventura-Pokemon
+	url = https://github.com/mpata2000/Una-Aventura-Pokemon
